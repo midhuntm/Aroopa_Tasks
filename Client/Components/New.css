@@ -1,0 +1,36 @@
+
+.t5bgcolor
+{
+  background-color: aliceblue;
+  height: 100vh;
+  width: 100;
+}
+.t5text
+{
+    margin-left: 700px;
+    padding-top: 50px;
+}
+.t5input
+{
+    margin-left: 650px;
+}
+.t5bgcolor1
+{
+  background-color: whitesmoke;
+  height: 100vh;
+  width: 500px;
+  margin-left: 500px;
+}
+.t5text1
+{
+  margin-left: 170px;
+}
+.t5input
+{
+  margin-left: 120px;
+}
+.list
+{
+  margin-left: 50px;
+  margin-top: 20px;
+}

@@ -1,0 +1,66 @@
+.bgcolor1
+{
+  background-color: rgb(91, 105, 117);
+  height: 100vh;
+  width: 20%;
+  text-align: center;
+  margin-left: 600px;
+ line-height: 100px;
+}
+.bgcolor
+{
+  background-color: rgb(44, 52, 60);
+}
+.T1bgcolor
+{
+  
+  height: 100vh;
+  width: 40%;
+  margin-left: 400px;
+  padding-top: 150px;
+  padding-left: 100px;
+}
+.T1bgcolor1
+{
+  background-color: rgb(248, 248, 248);
+  position: fixed;
+  width: 100%;
+  
+}
+.T1text
+{
+  height: 30px;
+  width: 300px;
+  margin-right: 10px;
+}
+.T1button
+{
+  height: 30px;
+  
+
+}
+.tasklist
+{
+  margin-left: 50px;
+}
+.table1
+{
+  margin-left: 300px;
+  margin-top: 40px;
+}
+.text1
+{
+  margin-left: 40px;
+}
+.btn1
+{
+  margin-left: 200px;
+}
+.bit-btn1
+{
+  margin-left: 150px;
+}
+.t1btn1
+{
+  margin-left: 400px;
+}
